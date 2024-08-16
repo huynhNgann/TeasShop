@@ -246,7 +246,7 @@
                                         <ul class="nav nav-tabs d-flex justify-content-center border-0">
                                             <li class="nav-item">
                                                 <a href="#account-login" data-toggle="tab" class="nav-link active show">
-                                                    Đăg nhập
+                                                    Đăng nhập
                                                 </a>
                                             </li>
                                             <li class="account-item-title">
@@ -343,7 +343,7 @@
                                         </div>
                                     </div>
 
-                                    <aside class="pd-bottom-30 widget d-flex justify-content-center">
+                                    {{-- <aside class="pd-bottom-30 widget d-flex justify-content-center">
                                         <div class="textwidget">
                                             <div class="custom-currencies custom-widget d-flex align-items-center">
                                                 <h5 class="fs-18">Currencies</h5>
@@ -375,8 +375,8 @@
                                                 </ul>
                                             </div>
                                         </div>
-                                    </aside>
-
+                                    </aside> --}}
+                                    <div style="padding-bottom:30px;"></div>
                                     <div class="info-social text-center">
                                         <h5 class="social-title title-black">Welcome to Over Store</h5>
                                         <p class="social-caption">Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor maecenas.</p>
